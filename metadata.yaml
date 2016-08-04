@@ -1,0 +1,36 @@
+_repo: Essays---First-Series_2944
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Emerson, Ralph Waldo
+    aliases:
+    - Emerson, Waldo
+    - Emerson, R. W. (Ralph Waldo)
+    - Emerson, R. Waldo (Ralph Waldo)
+    birthdate: 1803
+    deathdate: 1882
+    gutenberg_agent_id: '1071'
+    url: http://www.gutenberg.org/2009/agents/1071
+    wikipedia: http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson
+description: 1st ser. History. Self-reliance. Compensation. Spiritual laws. Love.
+  Friendship. Prudence. Heroism. The Over-soul. Circles. Intellect. Art.--2nd ser.
+  The poet. Experience. Character. Manners. Gifts. Nature. Politics. Nominalist and
+  realist. New England reformers.
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '2001-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2944'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American essays -- 19th century'
+- GITenberg
+tableOfContents: History -- Self-reliance -- Compensation -- Spiritual laws -- Love
+  -- Friendship -- Prudence -- Heroism -- The over-soul -- Circles -- Intellect --
+  Art.
+title: Essays — First Series
+url: http://www.gutenberg.org/ebooks/2944
